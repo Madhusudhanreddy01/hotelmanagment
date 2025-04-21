@@ -27,7 +27,7 @@ Node version 20.x
 
 ## Cloning the repository
 
-https://github.com/Abishek5656/hostel-management-system.git
+https://github.com/Madhusudhanreddy01/hotelmanagment.git
 ## Install packages
 
 npm i
